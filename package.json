@@ -1,0 +1,9 @@
+{
+  "name": "projet7_oc",
+  "version": "1.0.0",
+  "description": "Projet n°7 Openclassroom: les petits plats",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
